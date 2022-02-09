@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TaPP2022
 
 You can use the [editor on GitHub](https://github.com/TaPP2022/TaPP2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
