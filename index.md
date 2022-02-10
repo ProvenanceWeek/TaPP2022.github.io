@@ -1,4 +1,4 @@
-## TaPP2022
+## 14th International Workshop on Theory and Practice of Provenance (TaPP) 2022
 
 You can use the [editor on GitHub](https://github.com/TaPP2022/TaPP2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
