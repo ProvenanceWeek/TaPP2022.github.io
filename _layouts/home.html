@@ -30,7 +30,7 @@ layout: default
         {{ content }}
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 5 %}
+<!--         {% for post in site.posts limit : 5 %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -54,7 +54,26 @@ layout: default
 
         <hr>
 
-        {% endfor %}
+        {% endfor %} -->
+        
+        <div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span12">
+			<p>
+				<strong><span>Date:</span> June 17, 2022 (Friday)</strong>
+			</p>
+			<p>
+				<strong>Venue: Philadelphia, PA, USA</strong>
+			</p>
+			<p>
+				<span>The Theory and Practice of Provenance workshop series was started in San Francisco in 2009. TaPP aims to be a venue for early-stage and innovative research ideas related to provenance, and a forum to encourage exchange of ideas between researchers working on provenance and practitioners or potential users of such research. Industry and academic participants interested in provenance in any setting are welcome, and workshop contributions describing unsolved problems or new potential application areas for provenance research are particularly welcome.</span>
+			</p>
+			<p>
+				<span>This year, TaPP will be co-located with SIGMOD 2022</span><span>and will take place on June 17 in Philadelphia, PA.</span>
+			</p>
+		</div>
+	</div>
+</div>
 
         <!-- Pager -->
         <div class="clearfix">
