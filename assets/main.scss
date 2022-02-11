@@ -6,10 +6,10 @@
 @media only screen and (min-width : 1200px) {
     .container { max-width: 1920px; }
 }
-a.heading:link{
+a.heading{
  color: $white;
  text-decoration: underline;
 }
-a.heading:cover{
+a.heading:hover{
     color: $red
 }
